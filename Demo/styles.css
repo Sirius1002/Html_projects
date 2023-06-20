@@ -1,0 +1,30 @@
+html,body{
+    padding:0;
+    margin:0;
+}
+
+.navbar{
+    background-color: aquamarine;
+    padding:12px 14px;
+}
+.navbar a{
+    margin-right:4px
+}
+.navbar a:hover{
+    background-color: beige;
+    padding:12px 14px ;
+}
+header{
+    height: 50vh;
+    justify-content: center;
+    display:flex;
+    text-align:center;
+    background-color: antiquewhite;
+}
+
+
+.about img{
+    max-width: 400 px;
+
+    margin-left:30 px;
+}
